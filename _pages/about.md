@@ -27,7 +27,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.03*: &nbsp;🎉🎉 Our work **Creative blends of visual concepts** is accepted by **CHI25**! 
 - *2024.05*: &nbsp;🎉🎉 Our work **EEG biomarkers analysis in different cognitive impairment after stroke: an exploration study** is accepted by **Frontiers in Neurology (SCI Journal)**! 
 - *2024.01*: &nbsp;🎉🎉 Our work **Age-Appropriate Web Design for People over 60 Years Old with Cognitive Difficulties** is accepted by **ICDHRM2024 (EI Conference)**! 
-- *2023.10*: &nbsp;🎉🎉 Our work **The effect of EEG and fNIRS in the digital assessment and digital therapy of Alzheimer’s disease: a systematic review** is accepted by **Frontiers in neuroscience (SCI Journal)**! 
+- *2023.10*: &nbsp;🎉🎉 Our work **The effect of EEG and fNIRS in the digital assessment and digital therapy of Alzheimer’s disease: a systematic review** is accepted by **Frontiers in Neuroscience (SCI Journal)**! 
 
 # 📝 Publications 
 
