@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a Full Time Research Assistant at <a href='https://hkust.edu.hk/'>The Hong Kong University of Science and Technology</a>, <a href='https://cse.hkust.edu.hk/'>Department of Computer Science and Engineering</a>. Fortunately, I am supervised by <a href='https://www.cse.ust.hk/~mxj/'>Prof.Xiaojuan Ma</a> of HCI Initiative.
+I am a HCI Researcher, serving as a Full Time Research Assistant at <a href='https://hkust.edu.hk/'>The Hong Kong University of Science and Technology</a>, <a href='https://cse.hkust.edu.hk/'>Department of Computer Science and Engineering</a>. Fortunately, I am supervised by <a href='https://www.cse.ust.hk/~mxj/'>Prof.Xiaojuan Ma</a>.
 
 
 
