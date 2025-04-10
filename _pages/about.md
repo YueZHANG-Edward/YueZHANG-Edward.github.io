@@ -114,7 +114,7 @@ HCI Initiative, Department of Computer Science and Engineering, The Hong Kong Un
 Visual Computing Research Center, Department of Computer Science and Engineering, Shenzhen University
 
 - Advisor: Zhida Sun
-- 2023.09 - 2024.6
+- 2023.09 - 2024.06
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
