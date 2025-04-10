@@ -96,13 +96,41 @@ Yucheng Zhang<sup>*</sup>, **Yue Zhang**<sup>*</sup>, Zhouhao Jiang, Mengxue Xu,
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/hkust-hci.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Research Intern]
+**Visiting Intern**
 
-**HCI Initiative, Department of Computer Science and Engineering, The Hong Kong Univeristy of Science and Technology**
+HCI Initiative, Department of Computer Science and Engineering, The Hong Kong Univeristy of Science and Technology
+
+- Advisor: Xiaojuan Ma
+- 2024.06 - 2024.09
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/vcc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Research Intern**
+
+Visual Computing Research Center, Department of Computer Science and Engineering, Shenzhen University
+
+- Advisor: Zhida Sun
+- 2023.09 - 2024.6
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/pennstate cist.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Research Intern**
+
+Center for Human-Computer Interaction, College of Information Sciences and Technology Research Centers, Pennsylvania State Universit
+
+- Advisor: John M. Carroll
+- 2023.06 - 2024.06
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
