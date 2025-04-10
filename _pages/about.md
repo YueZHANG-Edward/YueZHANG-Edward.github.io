@@ -36,9 +36,33 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/system interface_1211.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[InsightBridge: Enhancing Empathizing with Users through Real-Time Information Synthesis and Visual Communication](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[InsightBridge: Enhancing Empathizing with Users through Real-Time Information Synthesis and Visual Communication](#)
 
 Junze Li, **Yue Zhang**, Chengbo Zheng, Dingdong Liu, Zeyu Huang, Xiaojuan Ma
+
+[**PDF**](#) | [**Video**](#)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/teaser_page-0001.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Creative Blends of Visual Concepts](#)
+
+Zhida Sun, Zhenyao Zhang, **Yue Zhang**, Min Lu, Dani Lischinski, Daniel Cohen-Or, Hui Huang
+
+[**PDF**](#) | [**Video**](#)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Neurology</div><img src='images/EEG biomarkers analysis.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EEG biomarkers analysis in different cognitive impairment after stroke: an exploration study](#)
+
+Mengxue Xu, Yucheng Zhang, **Yue Zhang**, Xisong Liu, Kunqiang Qing
 
 [**PDF**](#) | [**Video**](#)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
