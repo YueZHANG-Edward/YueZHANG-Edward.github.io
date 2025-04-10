@@ -98,7 +98,7 @@ Yucheng Zhang<sup>*</sup>, **Yue Zhang**<sup>*</sup>, Zhouhao Jiang, Mengxue Xu,
 
 [Research Intern]
 
-[**HCI Initiative, Department of Computer Science and Engineering, The Hong Kong Univeristy of Science and Technology**](#)
+**HCI Initiative, Department of Computer Science and Engineering, The Hong Kong Univeristy of Science and Technology**
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
