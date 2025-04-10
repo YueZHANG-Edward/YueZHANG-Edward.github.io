@@ -132,9 +132,22 @@ Center for Human-Computer Interaction, College of Information Sciences and Techn
 </div>
 </div>
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/cas psy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Research Intern**
+
+Division of Social and Engineering Psychology, The Institute of Psychology, Chinese Academy of Sciences
+
+- Advisor: Liang Zhang
+- 2023.06 - 2024.09
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+# 💬 Talks
+- *2025.04*, GBA HCI Forum (Pre-CHI 2025), Hong Kong. 
+<!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 
 # 🎖 Honors and Awards
