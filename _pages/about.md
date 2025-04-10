@@ -21,7 +21,7 @@ I am a HCI Researcher, serving as a Full Time Research Assistant at <a href='htt
 
 
 
-My research interest includes **Human AI Interaction** and **Cognitive Bias in Data Visualization**. Currently, I am deeply involved in a project related to AI in Education, where I am serve as the Researcher Assistant.
+My research interest includes **Human AI Interaction** and **Cognitive Bias in Data Visualization**. Currently, I am deeply involved in a project related to AI in Education, where I serve as the Researcher Assistant.
 
 
 # 🔥 News
@@ -124,7 +124,7 @@ Visual Computing Research Center, Department of Computer Science and Engineering
 
 **Research Intern**
 
-Center for Human-Computer Interaction, College of Information Sciences and Technology Research Centers, Pennsylvania State Universit
+Center for Human-Computer Interaction, College of Information Sciences and Technology Research Centers, Pennsylvania State University
 
 - Advisor: John M. Carroll
 - 2023.06 - 2024.06
@@ -151,5 +151,9 @@ Division of Social and Engineering Psychology, The Institute of Psychology, Chin
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023* Second Prize, “Public Service Star”, Shenzhen University. 
+- *2022* Third Prize, “Challenge Cup”, Shenzhen University. 
+- *2022* Outstanding Student, “Culture and Human Development” Program, Clark University
+- *2021* Third Prize, Undergraduate Innovation and Entrepreneurship Forum for Psychology Majors, Shenzhen University.
+- *2021* Distinction, “Psychology and Applied Psychology” Program, National University of Singapore
+- *2021* Psychology Discipline Scholarship, Shenzhen University.
