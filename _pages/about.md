@@ -21,7 +21,7 @@ I am a HCI Researcher, serving as a Full Time Research Assistant at <a href='htt
 
 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes **Human AI Interaction** and **Cognitive Bias in Data Visualization**. Currently, I am deeply involved in a project related to AI in Education, where I am serve as the Researcher Assistant.
 
 
 # 🔥 News
@@ -64,7 +64,7 @@ Zhida Sun, Zhenyao Zhang, **Yue Zhang**, Min Lu, Dani Lischinski, Daniel Cohen-O
 
 Mengxue Xu<sup>*</sup>, Yucheng Zhang<sup>*</sup>, **Yue Zhang**, Xisong Liu, Kunqiang Qing
 
-[**PDF**](#) | [**Video**](#)
+[**PDF**](#)
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
@@ -76,7 +76,7 @@ Mengxue Xu<sup>*</sup>, Yucheng Zhang<sup>*</sup>, **Yue Zhang**, Xisong Liu, Ku
 
 Yucheng Zhang<sup>*</sup>, **Yue Zhang**<sup>*</sup>, Zhouhao Jiang, Mengxue Xu, Kunqiang Qing **(Co-First)**
 
-[**PDF**](#) | [**Video**](#)
+[**PDF**](#)
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
@@ -89,10 +89,19 @@ Yucheng Zhang<sup>*</sup>, **Yue Zhang**<sup>*</sup>, Zhouhao Jiang, Mengxue Xu,
   -[Prof. Jianhui Wu](#) and [Prof. Jinting Liu](#)(School of Psychology) -->
 - *2020.09 - 2024.06*, Bachelor of Science in Psychology, Shenzhen University. Fortunately supervised by:
   - [Prof.Zhida Sun](#) (College of Computer Science and Software Engineering)
-  - [Prof.Jianhui Wu](#) and [Prof. Jinting Liu](#) (School of Psychology)
+  - [Prof.Jianhui Wu](#) and [Prof.Jinting Liu](#) (School of Psychology)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- - *2024.06 - 2024.09*, [The Hong Kong Univeristy of Science and Technology](https://github.com/), China. -->
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/hkust-hci.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Research Intern]
+
+[**HCI Initiative, Department of Computer Science and Engineering, The Hong Kong Univeristy of Science and Technology**](#)
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
 
 
 # 💬 Invited Talks
