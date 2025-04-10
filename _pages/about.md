@@ -84,9 +84,12 @@ Yucheng Zhang<sup>*</sup>, **Yue Zhang**<sup>*</sup>, Zhouhao Jiang, Mengxue Xu,
 *These authors contributed equally to this work.
 
 # 📖 Educations
-- *2020.09 - 2024.06*, Bachelor of Science in Psychology, Shenzhen University. Fortunately supervised by:
+<!-- - *2020.09 - 2024.06*, Bachelor of Science in Psychology, Shenzhen University. Fortunately supervised by:
   -[Prof. Zhida Sun](#) (College of Computer Science and Software Engineering)
-  -[Prof. Jianhui Wu](#) and [Prof. Jinting Liu](#)(School of Psychology)
+  -[Prof. Jianhui Wu](#) and [Prof. Jinting Liu](#)(School of Psychology) -->
+- *2020.09 - 2024.06*, Bachelor of Science in Psychology, Shenzhen University. Fortunately supervised by:
+  - [Prof. Zhida Sun](#) (College of Computer Science and Software Engineering)
+  - [Prof. Jianhui Wu](#) and [Prof. Jinting Liu](#) (School of Psychology)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
