@@ -69,6 +69,19 @@ Mengxue Xu, Yucheng Zhang, **Yue Zhang**, Xisong Liu, Kunqiang Qing
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Neuroscience</div><img src='images/digital assessment and therapy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The effect of EEG and fNIRS in the digital assessment and digital therapy of Alzheimer’s disease: a systematic review](#)
+
+Yucheng Zhang*, **Yue Zhang***, Zhouhao Jiang, Mengxue Xu, Kunqiang Qing **(Co-First)**
+
+[**PDF**](#) | [**Video**](#)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
