@@ -41,7 +41,7 @@ My research interest includes neural machine translation and computer vision. I 
 Junze Li, **Yue Zhang**, Chengbo Zheng, Dingdong Liu, Zeyu Huang, Xiaojuan Ma
 
 [**PDF**](#) | [**Video**](#)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
@@ -53,7 +53,7 @@ Junze Li, **Yue Zhang**, Chengbo Zheng, Dingdong Liu, Zeyu Huang, Xiaojuan Ma
 Zhida Sun, Zhenyao Zhang, **Yue Zhang**, Min Lu, Dani Lischinski, Daniel Cohen-Or, Hui Huang
 
 [**PDF**](#) | [**Video**](#)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
@@ -65,7 +65,7 @@ Zhida Sun, Zhenyao Zhang, **Yue Zhang**, Min Lu, Dani Lischinski, Daniel Cohen-O
 Mengxue Xu<sup>*</sup>, Yucheng Zhang<sup>*</sup>, **Yue Zhang**, Xisong Liu, Kunqiang Qing
 
 [**PDF**](#) | [**Video**](#)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
@@ -77,24 +77,26 @@ Mengxue Xu<sup>*</sup>, Yucheng Zhang<sup>*</sup>, **Yue Zhang**, Xisong Liu, Ku
 Yucheng Zhang<sup>*</sup>, **Yue Zhang**<sup>*</sup>, Zhouhao Jiang, Mengxue Xu, Kunqiang Qing **(Co-First)**
 
 [**PDF**](#) | [**Video**](#)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*These authors contributed equally to this work.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2024.06*, Bachelor of Science in Psychology, Shenzhen University. Fortunately supervised by:
+  -[Prof. Zhida Sun](#) (College of Computer Science and Software Engineering)
+  -[Prof. Jianhui Wu](#) and [Prof. Jinting Liu](#)(School of Psychology)
+
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
