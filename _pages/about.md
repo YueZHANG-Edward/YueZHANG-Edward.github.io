@@ -62,7 +62,7 @@ Zhida Sun, Zhenyao Zhang, **Yue Zhang**, Min Lu, Dani Lischinski, Daniel Cohen-O
 
 [EEG biomarkers analysis in different cognitive impairment after stroke: an exploration study](#)
 
-Mengxue Xu, Yucheng Zhang, **Yue Zhang**, Xisong Liu, Kunqiang Qing
+Mengxue Xu<sup>*</sup>, Yucheng Zhang<sup>*</sup>, **Yue Zhang**, Xisong Liu, Kunqiang Qing
 
 [**PDF**](#) | [**Video**](#)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -74,7 +74,7 @@ Mengxue Xu, Yucheng Zhang, **Yue Zhang**, Xisong Liu, Kunqiang Qing
 
 [The effect of EEG and fNIRS in the digital assessment and digital therapy of Alzheimer’s disease: a systematic review](#)
 
-Yucheng Zhang*, **Yue Zhang***, Zhouhao Jiang, Mengxue Xu, Kunqiang Qing **(Co-First)**
+Yucheng Zhang<sup>*</sup>, **Yue Zhang**<sup>*</sup>, Zhouhao Jiang, Mengxue Xu, Kunqiang Qing **(Co-First)**
 
 [**PDF**](#) | [**Video**](#)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
