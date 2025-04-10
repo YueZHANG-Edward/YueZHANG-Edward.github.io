@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a HCI Researcher, serving as a Full Time Research Assistant at <a href='https://hkust.edu.hk/'>The Hong Kong University of Science and Technology</a>, <a href='https://cse.hkust.edu.hk/'>Department of Computer Science and Engineering</a>. Fortunately, I am supervised by <a href='https://www.cse.ust.hk/~mxj/'>Prof.Xiaojuan Ma</a>.
+I am a HCI Researcher, serving as a Full Time Research Assistant at <a href='https://hkust.edu.hk/'>The Hong Kong University of Science and Technology</a>, <a href='https://cse.hkust.edu.hk/'>Department of Computer Science and Engineering</a>, where I am fortunately supervised by <a href='https://www.cse.ust.hk/~mxj/'>Prof.Xiaojuan Ma</a>.
 
 
 
@@ -88,8 +88,8 @@ Yucheng Zhang<sup>*</sup>, **Yue Zhang**<sup>*</sup>, Zhouhao Jiang, Mengxue Xu,
   -[Prof. Zhida Sun](#) (College of Computer Science and Software Engineering)
   -[Prof. Jianhui Wu](#) and [Prof. Jinting Liu](#)(School of Psychology) -->
 - *2020.09 - 2024.06*, Bachelor of Science in Psychology, Shenzhen University. Fortunately supervised by:
-  - [Prof. Zhida Sun](#) (College of Computer Science and Software Engineering)
-  - [Prof. Jianhui Wu](#) and [Prof. Jinting Liu](#) (School of Psychology)
+  - [Prof.Zhida Sun](#) (College of Computer Science and Software Engineering)
+  - [Prof.Jianhui Wu](#) and [Prof. Jinting Liu](#) (School of Psychology)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
