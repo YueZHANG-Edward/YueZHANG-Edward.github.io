@@ -119,7 +119,7 @@ Visual Computing Research Center, Department of Computer Science and Engineering
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/penn state ischool.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/penn state ischool.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Research Intern**
