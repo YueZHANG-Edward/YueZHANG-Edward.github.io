@@ -70,7 +70,7 @@ Zhida Sun, Zhenyao Zhang, **Yue Zhang**, Min Lu, Dani Lischinski, Daniel Cohen-O
 
 Mengxue Xu<sup>*</sup>, Yucheng Zhang<sup>*</sup>, **Yue Zhang**, Xisong Liu, Kunqiang Qing
 
-*Frontiers in Neurology*
+*Frontiers in Neurology* (SCI Journal)
 
 [**PDF**](/assets/pdfs/fneur.pdf)
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -84,7 +84,7 @@ Mengxue Xu<sup>*</sup>, Yucheng Zhang<sup>*</sup>, **Yue Zhang**, Xisong Liu, Ku
 
 Yucheng Zhang<sup>*</sup>, **Yue Zhang**<sup>*</sup>, Zhouhao Jiang, Mengxue Xu, Kunqiang Qing **(Co-First)**
 
-*Frontiers in Neuroscience*
+*Frontiers in Neuroscience* (SCI Journal)
 
 [**PDF**](/assets/pdfs/fnins.pdf)
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
