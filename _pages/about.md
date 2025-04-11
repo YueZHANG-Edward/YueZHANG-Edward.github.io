@@ -36,13 +36,13 @@ My research interest includes **Human AI Interaction** and **Cognitive Bias in D
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/system interface_1211.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-InsightBridge: Enhancing Empathizing with Users through Real-Time Information Synthesis and Visual Communication
+**InsightBridge: Enhancing Empathizing with Users through Real-Time Information Synthesis and Visual Communication**
 
 Junze Li, **Yue Zhang**, Chengbo Zheng, Dingdong Liu, Zeyu Huang, Xiaojuan Ma
 
-Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 2025.
+*Proceedings of the SIGCHI Conference on Human Factors in Computing Systems*, 2025.
 
-[**PDF**](#) |
+[**PDF**](/assets/pdfs/chi25-ib.pdf) |
  <!-- [**Video**](#) -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
@@ -51,13 +51,13 @@ Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/teaser_page-0001.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Creative Blends of Visual Concepts
+**Creative Blends of Visual Concepts**
 
 Zhida Sun, Zhenyao Zhang, **Yue Zhang**, Min Lu, Dani Lischinski, Daniel Cohen-Or, Hui Huang
 
-Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 2025.
+*Proceedings of the SIGCHI Conference on Human Factors in Computing Systems*, 2025.
 
-[**Arxiv**](https://arxiv.org/abs/2502.16062) 
+[**PDF**](https://arxiv.org/pdf/2502.16062) 
 <!-- | [**Video**](#) -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
@@ -66,11 +66,11 @@ Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Neurology</div><img src='images/EEG biomarkers analysis.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EEG biomarkers analysis in different cognitive impairment after stroke: an exploration study](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1358167/full)
+[**EEG biomarkers analysis in different cognitive impairment after stroke: an exploration study**](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2024.1358167/full)
 
 Mengxue Xu<sup>*</sup>, Yucheng Zhang<sup>*</sup>, **Yue Zhang**, Xisong Liu, Kunqiang Qing
 
-Frontiers in Neurology
+*Frontiers in Neurology*
 
 [**PDF**](/assets/pdfs/fneur.pdf)
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -80,13 +80,13 @@ Frontiers in Neurology
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Neuroscience</div><img src='images/digital assessment and therapy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The effect of EEG and fNIRS in the digital assessment and digital therapy of Alzheimer’s disease: a systematic review](#)
+[**The effect of EEG and fNIRS in the digital assessment and digital therapy of Alzheimer’s disease: a systematic review**](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1269359/full)
 
 Yucheng Zhang<sup>*</sup>, **Yue Zhang**<sup>*</sup>, Zhouhao Jiang, Mengxue Xu, Kunqiang Qing **(Co-First)**
 
-Frontiers in Neuroscience
+*Frontiers in Neuroscience*
 
-[**PDF**](#)
+[**PDF**](/assets/pdfs/fnins.pdf)
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
