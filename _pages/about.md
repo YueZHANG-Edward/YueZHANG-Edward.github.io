@@ -42,8 +42,8 @@ Junze Li, **Yue Zhang**, Chengbo Zheng, Dingdong Liu, Zeyu Huang, Xiaojuan Ma
 
 *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems*, 2025.
 
-[**PDF**](/assets/pdfs/chi25-ib.pdf) |
- <!-- [**Video**](#) -->
+[**PDF**](/assets/pdfs/chi25-ib.pdf)
+<!-- | [**Video**](#) -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
