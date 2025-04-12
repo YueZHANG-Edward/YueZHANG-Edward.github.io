@@ -21,7 +21,7 @@ I am a HCI Researcher, serving as a Full Time Research Assistant at <a href='htt
 
 My research interest includes **Human-AI Interaction** and **Cognitive Bias in Visualization**. Currently, I am deeply involved in a project related to AI in Education, where I serve as the Researcher Assistant. In this role, I investigate the integration of AI-empowered pedagogical tools, aiming to facilitate Teacher Professional Development (TPD).
 
-Before joining HKUST, I received the Bachelor of Science in Psychology. During that period, I focused on integrating cognitive neuroscience techniques (such as Electroencephalogram) with machine learning approaches to assess and intervene in cognitive impairments.
+Before joining HKUST, I received the Bachelor of Science in Psychology. During that period, I focused on integrating **Cognitive Neuroscience** techniques (such as Electroencephalogram) with **Machine Learning** approaches to assess and intervene in cognitive impairments.
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 Our work **InsightBridge: Enhancing Empathizing with Users through Real-Time Information Synthesis and Visual Communication** is accepted by **CHI25**! 
