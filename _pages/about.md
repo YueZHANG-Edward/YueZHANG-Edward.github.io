@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a HCI Researcher, serving as a Full Time Research Assistant at <a href='https://hkust.edu.hk/'>The Hong Kong University of Science and Technology</a>, <a href='https://cse.hkust.edu.hk/'>Department of Computer Science and Engineering</a>, where I am fortunately supervised by <a href='https://www.cse.ust.hk/~mxj/'>Prof.Xiaojuan Ma</a>.
+I am a HCI Researcher, serving as a Full Time Research Assistant at <a href='https://hkust.edu.hk/'>**The Hong Kong University of Science and Technology**</a>, <a href='https://cse.hkust.edu.hk/'>**Department of Computer Science and Engineering**</a>, where I am fortunately supervised by <a href='https://www.cse.ust.hk/~mxj/'>**Prof.Xiaojuan Ma**</a>.
 
 My research interest includes **Human-AI Interaction** and **Cognitive Bias in Visualization**. Currently, I am deeply involved in a project related to AI in Education, where I serve as the Researcher Assistant. In this role, I investigate the integration of AI-empowered pedagogical tools, aiming to facilitate Teacher Professional Development (TPD).
 
