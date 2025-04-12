@@ -154,6 +154,39 @@ Division of Social and Engineering Psychology, The Institute of Psychology, Chin
 </div>
 </div>
 
+# 💻 Skills
+
+<div class="skills-container" style="text-align: center;">
+  <div style="display: inline-block; margin: 10px 20px;">
+    <img src="images/javascript.png" alt="JavaScript" width="50" height="50">
+    <p style="margin-top: 5px;">JavaScript</p>
+  </div>
+  <div style="display: inline-block; margin: 10px 20px;">
+    <img src="images/typescript.png" alt="TypeScript" width="50" height="50">
+    <p style="margin-top: 5px;">TypeScript</p>
+  </div>
+  <div style="display: inline-block; margin: 10px 20px;">
+    <img src="images/python.png" alt="Python" width="50" height="50">
+    <p style="margin-top: 5px;">Python</p>
+  </div>
+  <div style="display: inline-block; margin: 10px 20px;">
+    <img src="images/matlab.png" alt="MATLAB" width="50" height="50">
+    <p style="margin-top: 5px;">MATLAB</p>
+  </div>
+  <div style="display: inline-block; margin: 10px 20px;">
+    <img src="images/eeg.png" alt="EEG" width="50" height="50">
+    <p style="margin-top: 5px;">EEG</p>
+  </div>
+</div>
+  
+  <div class="skills-labels" style="display: flex; justify-content: center; gap: 20px;">
+    <span>Python</span>
+    <span>JavaScript</span>
+    <span>C++</span>
+    <span>Java</span>
+  </div>
+</div>
+
 # 💬 Talks
 - *2025.04*, GBA HCI Forum (Pre-CHI 2025), Hong Kong. 
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
