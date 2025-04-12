@@ -156,24 +156,24 @@ Division of Social and Engineering Psychology, The Institute of Psychology, Chin
 
 # 💻 Skills
 
-<div class="skills-container" style="text-align: center;">
-  <div style="display: inline-block; margin: 10px 20px;">
+<div class="skills-container" style="text-align: left; padding-left: 20px;">
+  <div style="display: inline-block; margin: 10px 20px 10px 0;">
     <img src="images/javascript.png" alt="JavaScript" width="50" height="50">
     <p style="margin-top: 5px;">JavaScript</p>
   </div>
-  <div style="display: inline-block; margin: 10px 20px;">
+  <div style="display: inline-block; margin: 10px 20px 10px 0;">
     <img src="images/typescript.png" alt="TypeScript" width="50" height="50">
     <p style="margin-top: 5px;">TypeScript</p>
   </div>
-  <div style="display: inline-block; margin: 10px 20px;">
+  <div style="display: inline-block; margin: 10px 20px 10px 0;">
     <img src="images/python.png" alt="Python" width="50" height="50">
     <p style="margin-top: 5px;">Python</p>
   </div>
-  <div style="display: inline-block; margin: 10px 20px;">
+  <div style="display: inline-block; margin: 10px 20px 10px 0;">
     <img src="images/matlab.png" alt="MATLAB" width="50" height="50">
     <p style="margin-top: 5px;">MATLAB</p>
   </div>
-  <div style="display: inline-block; margin: 10px 20px;">
+  <div style="display: inline-block; margin: 10px 20px 10px 0;">
     <img src="images/eeg.png" alt="EEG" width="50" height="50">
     <p style="margin-top: 5px;">EEG</p>
   </div>
