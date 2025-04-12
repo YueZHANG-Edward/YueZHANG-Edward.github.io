@@ -179,13 +179,6 @@ Division of Social and Engineering Psychology, The Institute of Psychology, Chin
   </div>
 </div>
   
-  <div class="skills-labels" style="display: flex; justify-content: center; gap: 20px;">
-    <span>Python</span>
-    <span>JavaScript</span>
-    <span>C++</span>
-    <span>Java</span>
-  </div>
-</div>
 
 # 💬 Talks
 - *2025.04*, GBA HCI Forum (Pre-CHI 2025), Hong Kong. 
