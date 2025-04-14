@@ -136,7 +136,7 @@ Visual Computing Research Center, Department of Computer Science and Engineering
 Center for Human-Computer Interaction, College of Information Sciences and Technology Research Centers, Pennsylvania State University
 
 - Advisor: [John M. Carroll](https://jcarroll.ist.psu.edu/)
-- 2023.06 - 2024.06
+- 2023.09 - 2024.06
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
@@ -149,7 +149,7 @@ Center for Human-Computer Interaction, College of Information Sciences and Techn
 Division of Social and Engineering Psychology, The Institute of Psychology, Chinese Academy of Sciences
 
 - Advisor: [Liang Zhang](https://psych.cas.cn/sourcedb/cn/expert/201605/t20160505_6369869.html)
-- 2023.06 - 2024.09
+- 2023.06 - 2023.09
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
