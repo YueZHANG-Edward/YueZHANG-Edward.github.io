@@ -35,13 +35,13 @@ Before joining HKUST, I received the Bachelor of Science in Psychology. During t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/system interface_1211.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**InsightBridge: Enhancing Empathizing with Users through Real-Time Information Synthesis and Visual Communication**
+[**InsightBridge: Enhancing Empathizing with Users through Real-Time Information Synthesis and Visual Communication**](https://dl.acm.org/doi/abs/10.1145/3706598.3713640)
 
 Junze Li, **Yue Zhang**, Chengbo Zheng, Dingdong Liu, Zeyu Huang, Xiaojuan Ma
 
 *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems*, 2025.
 
-[**PDF**](/assets/pdfs/chi25-ib.pdf)
+[**PDF**](https://dl.acm.org/doi/pdf/10.1145/3706598.3713640)
 <!-- | [**Video**](#) -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
@@ -50,13 +50,13 @@ Junze Li, **Yue Zhang**, Chengbo Zheng, Dingdong Liu, Zeyu Huang, Xiaojuan Ma
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/teaser_page-0001.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Creative Blends of Visual Concepts**
+[**Creative Blends of Visual Concepts**](https://dl.acm.org/doi/10.1145/3706598.3713683)
 
 Zhida Sun, Zhenyao Zhang, **Yue Zhang**, Min Lu, Dani Lischinski, Daniel Cohen-Or, Hui Huang
 
 *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems*, 2025.
 
-[**PDF**](https://arxiv.org/pdf/2502.16062) 
+[**PDF**](https://dl.acm.org/doi/pdf/10.1145/3706598.3713683) 
 <!-- | [**Video**](#) -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
