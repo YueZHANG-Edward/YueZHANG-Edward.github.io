@@ -120,7 +120,7 @@ HCI Initiative, Department of Computer Science and Engineering, The Hong Kong Un
 
 **Research Intern**
 
-Visual Computing Research Center, Department of Computer Science and Engineering, Shenzhen University
+Visual Computing Research Center, College of Computer Science and Software Engineering, Shenzhen University
 
 - Advisor: [Zhida Sun](https://zhdsun.github.io/)
 - 2023.09 - 2024.06
@@ -133,7 +133,7 @@ Visual Computing Research Center, Department of Computer Science and Engineering
 
 **Research Intern**
 
-Center for Human-Computer Interaction, College of Information Sciences and Technology Research Centers, Pennsylvania State University
+Center for Human-Computer Interaction, College of Information Sciences and Technology, Pennsylvania State University
 
 - Advisor: [John M. Carroll](https://jcarroll.ist.psu.edu/)
 - 2023.09 - 2024.06
